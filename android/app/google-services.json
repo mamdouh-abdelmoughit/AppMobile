@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285239876704",
+    "project_id": "moughitapp-b7714",
+    "storage_bucket": "moughitapp-b7714.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285239876704:android:c715e2c5a8f2ebf2edf705",
+        "android_client_info": {
+          "package_name": "com.moughit.moughit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0h0GtP0TAwHHyCmIgWmipKNWC_qpnao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
